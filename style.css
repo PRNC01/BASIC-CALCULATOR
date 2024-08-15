@@ -11,6 +11,7 @@ body{
     width: 932px;
     height: 430px;
     border: 3px solid #000000;
+    background-color: #00ffae;
     border-radius: 2rem;
     margin-top: 2rem;
 }
@@ -27,6 +28,7 @@ body{
 #Display{
     width: 900px;
     height: 90px;
+    background-color: #00ffae;
     border: none;
     font-size: 70px;
     text-align: right;
@@ -79,11 +81,11 @@ button{
     border-radius: 50%;
     border: none;
     font-size: 18px;
-    background-color: #202020;
+    background-color: #256563;
     color: #ffffff;
 }
 .Sci-Btn{
-    background-color: #101010;
+    background-color: #256563;
 }
 #zero{
     width: 146px;
